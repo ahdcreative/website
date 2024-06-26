@@ -4,7 +4,7 @@
         "browser": true
     },
     "extends": [
-        "plugin: tailwindcss/recommended",
+        "plugin:tailwindcss/recommended",
         "@flybywiresim/eslint-config"
     ],
     "plugins": [
